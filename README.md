@@ -8,3 +8,9 @@ function(data) {
   }
   return 0
 }
+
+ups
+{
+    "dstGasLimit": "4000400",
+    "version": "1"
+}
