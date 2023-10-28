@@ -14,3 +14,8 @@ ups
     "dstGasLimit": "4000400",
     "version": "1"
 }
+ if (isInStorage) {
+    colorMode = persistedPreference;
+  } else {
+    colorMode = initialValue === "system" ? systemPreference : initialValue;
+  }
