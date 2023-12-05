@@ -19,3 +19,5 @@ ups
   } else {
     colorMode = initialValue === "system" ? systemPreference : initialValue;
   }
+
+ispir.tvr.1000
