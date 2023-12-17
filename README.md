@@ -21,3 +21,4 @@ ups
   }
 
 ispir.tvr.1000
+insp time is 60sec./////up server boost!
