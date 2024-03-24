@@ -24,3 +24,4 @@ insp time is 60sec./////up server boost!
 ups
 {
 31_12_exit dump.
+checkup patch 1.2
